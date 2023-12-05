@@ -27,3 +27,5 @@ function setJoao(m){
 function setMaria(m){
     maria = m;
 }
+
+export { deJoaoParaMaria, deMariaParaJoao, getJoao, getMaria, setJoao, setMaria};
